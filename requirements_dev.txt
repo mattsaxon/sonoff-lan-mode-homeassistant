@@ -1,2 +1,2 @@
-homeassistant==0.110.1
+homeassistant==2021.1.5
 pysonofflanr3==1.1.4
